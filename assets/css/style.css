@@ -1,0 +1,58 @@
+body{
+    background-image: url('../images/geometric-leaves.png');
+}
+
+.navbar{
+    
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.aboutmeimg{
+   height: 450px;
+   margin-top: 5px;
+   margin-bottom: 10px;
+}
+
+.navfooter{
+    text-align: center;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: #666666;
+}
